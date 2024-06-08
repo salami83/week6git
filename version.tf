@@ -8,6 +8,7 @@ terraform {
 
   }
 }
+# this lign is inactive
 provider "aws" {
     region = "us-east-2"
     
